@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 Major in spacecraft propulsion, still a newcomer to software design world.
-Be Passionate, Be Patient.
