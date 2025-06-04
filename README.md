@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Major in spacecraft propulsion, still a newcomer to software design world.
+Major in spacecraft propulsion.
+Keep curious to the world.
